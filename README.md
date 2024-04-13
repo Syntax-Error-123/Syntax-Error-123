@@ -1,7 +1,7 @@
 # Syntax__Error
 
 
-<!--
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +15,7 @@
 
 
 
-<h1 align="center">Hii there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   I am Syntax Error
 </h1>
 
@@ -28,7 +28,7 @@
 
 
 - 🔭 Full Stack learner from India  
-<!-- - 🏫 I'm currently studying at Don Bosco Institute of technology,Mumbai -->
+- AI ML Developer
 -🌱 I’m currently learning **MERN Stack**  
 
  <p align="center"> <img width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="vijayguptagh" /> </p>
